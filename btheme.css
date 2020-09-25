@@ -1,0 +1,103 @@
+<style type="text/css">
+<!--
+body {
+background:%%color:page_back%%;
+}
+body, table, td, div {
+font-size:8pt;
+font-family: "OCR A Extended", "Courier";
+}
+.entries {
+width:85%;
+margin-bottom:50px;
+}
+.entries td {
+padding:4px;
+}
+.entries td.nopad {
+padding:0;
+}
+.altposter {
+background:%%color:strong_back%%;
+border:solid 2px %%color:weak_back%%;
+border-bottom:0;
+font-weight:bold;
+text-align:center;
+color:%%color:strong_text%%;
+}
+.metabox {
+background:%%color:strong_back%%;
+width:50%;
+border:solid 2px %%color:weak_back%%;
+font-weight:bold;
+color:%%color:strong_text%%;
+}
+.necorn {
+background:%%color:stronger_back%%;
+text-align:right;
+font-style:italic;
+border-right:solid 2px %%color:weak_back%%;
+border-top:solid 2px %%color:weak_back%%;
+color:%%color:stronger_text%%;
+}
+.sidepad {
+width:5%
+}
+.entrybox {
+background:%%color:stronger_back%%;
+width:90%;
+border-right:solid 2px %%color:weak_back%%;
+border-left:solid 2px %%color:weak_back%%;
+color:%%color:stronger_text%%;
+}
+.currbox {
+width:30%;
+background:%%color:strong_back%%;
+border:solid 2px %%color:weak_back%%;
+margin:3px;
+float:right;
+color:%%color:strong_text%%;
+}
+.swcorn {
+background:%%color:stronger_back%%;
+border-left:solid 2px %%color:weak_back%%;
+border-bottom:solid 2px %%color:weak_back%%;
+color:%%color:stronger_text%%;
+}
+a {
+text-decoration:none;
+}
+a:link, a:hover {
+color: %%color:page_link%%;
+}
+a:visited {
+color: %%color:page_vlink%%;
+}
+a img {
+border: 0;
+}
+a:hover, .entrybox a:hover, a:active {
+color: %%color:page_alink%%;
+text-decoration: underline;
+}
+#secorn {
+background:%%color:stronger_back%%;
+border-right:solid 2px %%color:weak_back%%;
+border-bottom:solid 2px %%color:weak_back%%;
+width:40%;
+color:%%color:stronger_text%%;
+}
+#navlink, #skiplink {
+text-align:right;
+width:60%;
+
+}
+.nav {
+background:%%color:stronger_back%%;
+border:solid 2px %%color:weak_back%%;
+border-bottom:0;
+text-align:center;
+color:%%color:stronger_text%%;
+}
+-->
+</style>
