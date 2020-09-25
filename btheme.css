@@ -1,103 +1,103 @@
-<style type="text/css">
-<!--
-body {
-background:%%color:page_back%%;
+body{
+
+background-color:#000000;
 }
-body, table, td, div {
-font-size:8pt;
-font-family: "OCR A Extended", "Courier";
+body, table, td, div{
+font-family:"OCR A Extended", "Courier", sans-serif;
+font-size:10pt;
 }
-.entries {
-width:85%;
-margin-bottom:50px;
+.entries{
+width:500;
+margin-bottom:20px;
 }
-.entries td {
-padding:4px;
+.entries td{
+padding:8px;
 }
-.entries td.nopad {
+.entries td.nopad{
 padding:0;
 }
-.altposter {
-background:%%color:strong_back%%;
-border:solid 2px %%color:weak_back%%;
+.altposter{
+background:#000000;
+border:solid 2px #660000;
 border-bottom:0;
 font-weight:bold;
-text-align:center;
-color:%%color:strong_text%%;
+text-align:left;
+color:#d1001d;
 }
-.metabox {
-background:%%color:strong_back%%;
+.metabox{
+background:#000000;
 width:50%;
-border:solid 2px %%color:weak_back%%;
+border:solid 2px #660000;
 font-weight:bold;
-color:%%color:strong_text%%;
+color:#d1001d;
+text-align:left;
 }
-.necorn {
-background:%%color:stronger_back%%;
+.necorn{
+background:#000000;
 text-align:right;
 font-style:italic;
-border-right:solid 2px %%color:weak_back%%;
-border-top:solid 2px %%color:weak_back%%;
-color:%%color:stronger_text%%;
+border-right:solid 2px #660000;
+border-top:solid 2px #660000;
+color:#d1001d;
 }
-.sidepad {
+.sidepad{
 width:5%
 }
-.entrybox {
-background:%%color:stronger_back%%;
+.entrybox{
+background:#000000;
 width:90%;
-border-right:solid 2px %%color:weak_back%%;
-border-left:solid 2px %%color:weak_back%%;
-color:%%color:stronger_text%%;
+border-right:solid 2px #660000;
+border-left:solid 2px #660000;
+color:#d1001d;
+text-align:left;
 }
-.currbox {
+.currbox{
 width:30%;
-background:%%color:strong_back%%;
-border:solid 2px %%color:weak_back%%;
+background:#000000;
+border:solid 2px #660000;
 margin:3px;
 float:right;
-color:%%color:strong_text%%;
+color:#d1001d;
+text-align:left;
 }
-.swcorn {
-background:%%color:stronger_back%%;
-border-left:solid 2px %%color:weak_back%%;
-border-bottom:solid 2px %%color:weak_back%%;
-color:%%color:stronger_text%%;
+.swcorn{
+background:#000000;
+border-left:solid 2px #660000;
+border-bottom:solid 2px #660000;
+color:#d1001d;
+text-align:left;
 }
-a {
+a{
 text-decoration:none;
 }
-a:link, a:hover {
-color: %%color:page_link%%;
+a:link, a:hover{
+color:#d1001d;
 }
-a:visited {
-color: %%color:page_vlink%%;
+a:visited{
+color:#d1001d;
 }
-a img {
-border: 0;
+a img{
+border:0;
 }
-a:hover, .entrybox a:hover, a:active {
-color: %%color:page_alink%%;
-text-decoration: underline;
+a:hover, .entrybox a:hover, a:active{
+color:#cd0719;
+text-decoration:underline;
 }
-#secorn {
-background:%%color:stronger_back%%;
-border-right:solid 2px %%color:weak_back%%;
-border-bottom:solid 2px %%color:weak_back%%;
+#secorn{
+background:#000000;
+border-right:solid 2px #660000;
+border-bottom:solid 2px #660000;
 width:40%;
-color:%%color:stronger_text%%;
+color:#d1001d;
 }
-#navlink, #skiplink {
+#navlink, #skiplink{
 text-align:right;
 width:60%;
-
 }
-.nav {
-background:%%color:stronger_back%%;
-border:solid 2px %%color:weak_back%%;
+.nav{
+background:#000000;
+border:solid 2px #660000;
 border-bottom:0;
-text-align:center;
-color:%%color:stronger_text%%;
+text-align:left;
+color:#d1001d;
 }
--->
-</style>
